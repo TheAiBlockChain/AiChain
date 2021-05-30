@@ -1,11 +1,17 @@
 
 /**
   
-   #Ai
+    
+  #AiChain 
+  
+  The unique advantage here is an automatic matching of users, basing on artificial intelligence approach. It is a first ever artificial intelligence marketplace in the world, combining traditional and smart contract, block chain, future oriented ideas of connecting people and performing operations by analyzing users preferences.
+The digital revolution has already changed how people live, work, and communicate. AiChain is a long-term project whose purpose is to improve, simplify, and make Artificial Intelligence and Machine Learning development more accessible for students and developers around the world. AiChain will help our communities make Ai & BlockChain  more beneficial for our everyday activities.
+AiChain Project is Global market Platform or on-demand services based on unique AI and blockchain technologies and a place to grow our community and transparently develop apps
+  
    
    #LIQ+#RFI+#SHIB+#DOGE = #BEE
 
-   #AiBlockChain features:
+   #AiChain features:
    3% fee auto add to the liquidity pool to locked forever when selling
    2% fee auto distribute to all holders
    I created a black hole so #BEE token will deflate itself in supply with every transaction
@@ -713,7 +719,7 @@ contract AiChain is Context, IERC20, Ownable {
     uint256 private _tFeeTotal;
 
     string private _name = "AiChain";
-    string private _symbol = "Ai";
+    string private _symbol = "AiChain";
     uint8 private _decimals = 9;
     
     uint256 public _taxFee = 5;
